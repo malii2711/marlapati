@@ -1,1 +1,1 @@
-# marlapati
+theme: jekyll-theme-minimal.
